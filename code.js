@@ -1,3 +1,7 @@
+function commingsoon(){
+	alert("Comming Soon")
+}
+
 
 //TASK 2 code
 function cca(){
