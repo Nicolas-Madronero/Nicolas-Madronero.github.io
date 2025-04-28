@@ -1,0 +1,16 @@
+#aboutblock{float: left;}
+
+
+.menu{float: right;}
+
+.personalinfo{display: flex; flex-direction: column;}
+.personalinfo h1{margin: 1px;}
+.personalinfo p{margin: 1px;}
+.container{background-color: grey; display:flex; justify-content: space-between;  padding: 10px;}
+.s_container{display:flex; justify-content: space-evenly;  padding: 0; margin:0}
+#rform{display:flex;justify-content: center; align-items:center;}
+#namebox{border-radius: 10px }
+#recommendationbox{border-radius:10px}
+button{border-radius:10px}
+
+.skilllist{float: left;}
