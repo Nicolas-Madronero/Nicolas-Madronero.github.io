@@ -1,5 +1,5 @@
 function commingsoon(){
-	alert("Comming Soon")
+	alert("Comming Soon");
 }
 
 
