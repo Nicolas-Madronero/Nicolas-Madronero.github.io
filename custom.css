@@ -1,16 +1,14 @@
-#aboutblock{float: left;}
-
-
-.menu{float: right;}
-
+/*Navigation bar*/
+.container{background-color: lightgrey; display:flex; justify-content: space-between;  padding: 10px;}
 .personalinfo{display: flex; flex-direction: column;}
 .personalinfo h1{margin: 1px;}
 .personalinfo p{margin: 1px;}
-.container{background-color: lightgrey; display:flex; justify-content: space-between;  padding: 10px;}
-.s_container{display:flex; padding: 0; margin:0}
+.menu{float: right;}
+
+
+#aboutblock{float: left;}
+.s_container{display:flex; justify-content: space-between; padding: 0; margin:0}
 #rform{display:flex;justify-content: center; align-items:center;}
 #namebox{border-radius: 10px }
 #recommendationbox{border-radius:10px}
 button{border-radius:10px}
-
-.skilllist{float: left;}
