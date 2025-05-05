@@ -47,3 +47,14 @@ function rcd(){
 	document.getElementById("optD").style.color = "";
   document.getElementById("optD").style.fontFamily = "times new roman";
 }
+
+function cce(){
+	document.getElementById("optE").style.fontFamily = "arial";
+	document.getElementById("optE").style.color = "black";
+  
+}
+
+function rce(){
+	document.getElementById("optE").style.color = "";
+  document.getElementById("optE").style.fontFamily = "times new roman";
+}

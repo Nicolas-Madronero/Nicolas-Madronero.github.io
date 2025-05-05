@@ -5,10 +5,31 @@
 .personalinfo p{margin: 1px;}
 .menu{float: right;}
 
-
+/*About*/
 #aboutblock{float: left;}
+
+/*Skills*/
 .s_container{display:flex; justify-content: space-between; padding: 0; margin:0}
+.s_list{float: left;}
+
+
+/*Recommendations*/
 #rform{display:flex;justify-content: center; align-items:center;}
 #namebox{border-radius: 10px }
 #recommendationbox{border-radius:10px}
 button{border-radius:10px}
+
+.imagebox{
+    display:flex; 
+    flex-wrap: wrap; 
+    justify-self: flex-start;
+    flex-direction: row;
+    padding: 1px;
+    margin: 1px;
+
+}
+
+.logo{
+ margin: 1px; 
+ border-radius: 2px;
+}
