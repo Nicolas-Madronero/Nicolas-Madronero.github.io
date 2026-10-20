@@ -1,9 +1,9 @@
 /*Navigation bar*/
 .container{background-color: rgb(13, 2, 84); display:flex; justify-content: space-between;  padding: 10px;}
 .personalinfo{display: flex; flex-direction: column;}
-.personalinfo h1{margin: 1px;}
-.personalinfo p{margin: 1px;}
-.menu{float: right;}
+.personalinfo h1{margin: 1px; color: lightgrey;}
+.personalinfo p{margin: 1px; color: lightgrey;}
+.menu{float: right; color: grey;}
 
 /*About*/
 #aboutblock{float: left;}
