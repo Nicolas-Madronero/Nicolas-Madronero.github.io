@@ -30,6 +30,11 @@ button{border-radius:10px}
 
 }
 
+.pythonlogo{
+    display: flex;
+    float: right;
+}
+
 .logocontainer{
   display: flex;
   flex-direction: column;
