@@ -4,6 +4,7 @@
 .personalinfo h1{margin: 1px; color: lightgrey;}
 .personalinfo p{margin: 1px; color: lightgrey;}
 .menu{float: right; color: grey;}
+.menu a{color: grey;}
 
 /*About*/
 #aboutblock{float: left;}
