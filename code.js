@@ -28,7 +28,7 @@ function rcb(){
 
 function ccc(){
 	document.getElementById("optC").style.fontFamily = "arial";
-	document.getElementById("optC").style.color = "black";
+	document.getElementById("optC").style.color = "lightgrey";
   
 }
 
