@@ -55,6 +55,6 @@ function cce(){
 }
 
 function rce(){
-	document.getElementById("optE").style.color = "";
+	document.getElementById("optE").style.color = "grey";
   document.getElementById("optE").style.fontFamily = "times new roman";
 }
